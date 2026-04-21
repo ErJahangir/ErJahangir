@@ -83,5 +83,5 @@ Git · GitHub · Postman · Figma
 ## 📫 Connect With Me
 
 🔗 LinkedIn: www.linkedin.com/in/jahangircse786/  
-💻 Portfolio: jahangirportfolio.vercel.app  
+💻 Portfolio: https://jahangir-alam.vercel.app/
 📧 Email: jahangiralamnke786@gmail.com
