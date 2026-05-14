@@ -122,14 +122,6 @@ Healthcare application with:
 ✔ Strong in scalable frontend systems  
 ✔ Advanced integrations with NFC / OCR / Biometrics
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ErJahangir&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErJahangir&theme=tokyonight" />
-</p>
 
 ---
 
